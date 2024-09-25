@@ -1,0 +1,17 @@
+{
+  "keybindings": {
+    "Main": {
+      "<q>": "Quit", // Quit the application
+      "<Ctrl-d>": "Quit", // Another way to quit
+      "<Ctrl-c>": "Quit", // Yet another way to quit
+      "<Ctrl-z>": "Suspend", // Suspend the application
+      "<Tab>": "NavigateNextTab",
+      "<BackTab>": "NavigatePrevTab",
+      "<Down>": "ListDown",
+      "<j>": "ListDown",
+      "<Up>": "ListUp",
+      "<k>": "ListUp",
+      "<Enter>": "SelectItem",
+    },
+  }
+}
